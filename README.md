@@ -12,4 +12,5 @@ I am eager to exploring all types of programing available. I wamt to make progra
 * Zebra
   
 **This text is bold**\
-*This text is italic*
+*This text is italic*\
+***This text is both italic and bold***
